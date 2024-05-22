@@ -20,7 +20,6 @@ const respostas = [
     'As perspectivas não são tão boas.',
     'Sim.',
     'Sinais apontam que sim.',
-    'Faz o L que é melhor.'
     ]
 
 // 3. Iniciamos a construção de nossa função principal.
