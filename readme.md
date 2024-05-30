@@ -17,9 +17,10 @@ Nenhum requisito especial é necessário além de um navegador da web compatíve
 
 1. Clone este repositório para o seu ambiente local ou faça o download dos arquivos `index.html`, `style.css` e `script.js`.
 2. Abra o arquivo `index.html` em um navegador da web.
-3. Digite uma pergunta na caixa de texto fornecida.
-4. Pressione o botão "Perguntar à Bola de Cristal".
-5. Aguarde a resposta mágica da bola de cristal!
+3. Ou acesse [aqui](https://boladecristals.netlify.app)
+4. Digite uma pergunta na caixa de texto fornecida.
+5. Pressione o botão "Perguntar à Bola de Cristal".
+6. Aguarde a resposta mágica da bola de cristal!
 
 ## Estrutura de arquivos
 
