@@ -15,7 +15,7 @@ Nenhum requisito especial é necessário além de um navegador da web compatíve
 
 ## Como utilizar
 
-1. Clone este repositório para o seu ambiente local ou faça o download dos arquivos `index.html`, `index.css` e `index.js`.
+1. Clone este repositório para o seu ambiente local ou faça o download dos arquivos `index.html`, `style.css` e `script.js`.
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Digite uma pergunta na caixa de texto fornecida.
 4. Pressione o botão "Perguntar à Bola de Cristal".
@@ -24,8 +24,8 @@ Nenhum requisito especial é necessário além de um navegador da web compatíve
 ## Estrutura de arquivos
 
 - `index.html`: Contém a estrutura HTML da página.
-- `index.css`: Arquivo CSS para estilização da página.
-- `index.js`: Arquivo JavaScript com a lógica do programa da bola de cristal.
+- `style.css`: Arquivo CSS para estilização da página.
+- `script.js`: Arquivo JavaScript com a lógica do programa da bola de cristal.
 
 ## Contribuições
 
